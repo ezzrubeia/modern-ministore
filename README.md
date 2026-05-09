@@ -97,8 +97,8 @@ Modern MiniStore is a PHP and MySQL mini market web application. The project run
 
 Default admin account:
 
-Email: admin@store.com
-Password: Admin1234
+ Email: admin@store.com
+ Password: Admin1234
 
 If this account does not work, check the admin user record in the database.
 
