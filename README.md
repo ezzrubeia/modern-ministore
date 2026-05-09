@@ -47,10 +47,9 @@ Modern MiniStore is a PHP and MySQL mini market web application. The project run
 
    mini_market_project
 
-7. Import the database files into the database:
-
-   schema_cod.sql
-   schema_users.sql
+7. Import the SQL files in this order:
+    1. schema_cod.sql
+    2. schema_users.sql
 
 8. Open the project configuration file:
 
